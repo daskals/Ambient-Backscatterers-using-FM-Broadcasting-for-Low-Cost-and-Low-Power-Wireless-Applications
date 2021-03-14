@@ -15,7 +15,7 @@ processing algorithm.
 
 ---
 
-IEEE Xplore: https://ieeexplore.ieee.org/document/8103031
+IEEE Xplore: https://ieeexplore.ieee.org/document/8103031 \
 Local: http://www.daskalakispiros.com/files/daskalakis_mtt_2017.pdf
 
 ---
@@ -44,4 +44,4 @@ If you use our algorithm, please cite [[1]](https://ieeexplore.ieee.org/document
 ```
 
 
-[[1]](https://ieeexplore.ieee.org/document/8461676) D. G. Chachlakis, P. P. Markopoulos and F. Ahmad, "Mmse-Based Autocorrelation Sampling for Comprime Arrays," 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Calgary, AB, 2018, pp. 3474-3478, doi: 10.1109/ICASSP.2018.8461676.
+[[1]](https://ieeexplore.ieee.org/document/8103031) S. N. Daskalakis, J. Kimionis, A Collado, G. Goussetis, M. M. Tentzeris and A. Georgiadis, Ambient Backscatterers using FM Broadcasting for Low Cost and Low Power Wireless Applications, IEEE Transactions on Microwave Theory and Techniques (TMTT), Vol. 65, No. 12, pp. 5251 - 5262, November 2017.
